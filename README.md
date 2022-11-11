@@ -35,7 +35,7 @@ xp = 0
 
 hourlyWage = 10
 ```
-The `Worker` class has all the paramerters and methods of its super-class.
+The `Worker` class has all the parameters and methods of its super-class.
 
 Additionally, it has the `goToWork()` method, which, whenever it's run, increases the value of the `xp` property by 10.
 <br><br>
